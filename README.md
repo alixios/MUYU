@@ -20,7 +20,7 @@ make
 2. 运行 ./bin/main
 
 ## 目录结构描述
-.
+
 ├── README.md             // help       
 ├── makefile              // 构建项目
 ├── assets                //资源文件
