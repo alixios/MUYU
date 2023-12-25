@@ -2,7 +2,7 @@
 root@192.168.11.111
 
 # 忽略文件
-/assets/*
-*.o
-/bin/*
-/lib/*
+# /assets/*
+# *.o
+# /bin/*
+# /lib/*
